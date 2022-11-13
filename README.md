@@ -16,42 +16,42 @@
 
 ## *Лабороторная работа 2*
 
-##### [Вставка числа](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/A.Inserting%20A%20Number.cpp)
+##### [A. Вставка числа](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/A.Inserting%20A%20Number.cpp)
 
-##### [Сортировка вставками](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/B.Sorting%20By%20Inserts.cpp)
+##### [B. Сортировка вставками](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/B.Sorting%20By%20Inserts.cpp)
 
-##### [Экспедиция](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/C.Expedition.cpp)
+##### [C. Экспедиция](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/C.Expedition.cpp)
 
-##### [Библиотечный метод](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/D.Library%20Method.cpp)
+##### [D. Библиотечный метод](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/D.Library%20Method.cpp)
 
-##### [Результаты олимпиады](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/E.Olympiad%20Results.cpp)
+##### [E. Результаты олимпиады](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/E.Olympiad%20Results.cpp)
 
-##### [Сортировка слиянием](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/F.Merge%20Sorting.cpp)
+##### [F. Сортировка слиянием](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/F.Merge%20Sorting.cpp)
 
-##### [Похожие массивы](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/G.Similar%20Arrays.cpp)
+##### [G. Похожие массивы](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/G.Similar%20Arrays.cpp)
 
-##### [Забор](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/H.Fence.cpp)
+##### [H. Забор](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/H.Fence.cpp)
 
-##### [Быстрая сортировка](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/I.Quick%20sorting.cpp)
+##### [I. Быстрая сортировка](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/I.Quick%20sorting.cpp)
 
-##### [Анти-QuickSort](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/J.Anti-QuickSort.cpp)
+##### [J. Анти-QuickSort](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/J.Anti-QuickSort.cpp)
 
-##### [K-ая порядковая статистика](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/K.K-th%20Ordinal%20Statistics.cpp)
+##### [K. K-ая порядковая статистика](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/K.K-th%20Ordinal%20Statistics.cpp)
 
 ## *Лабороторная работа 3*
 
-##### [Очередь](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_3/A.Queue.cpp)
+##### [A. Очередь](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_3/A.Queue.cpp)
 
-##### [Стек](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_3/B.Stack.cpp)
+##### [B. Стек](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_3/B.Stack.cpp)
 
-##### [Правильная скобочная последовательность](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_3/C.Correct%20Bracket%20Sequence.cpp)
+##### [C. Правильная скобочная последовательность](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_3/C.Correct%20Bracket%20Sequence.cpp)
 
-##### [Постфиксная запись](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_3/D.Postfix%20Entry.cpp)
+##### [D. Постфиксная запись](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_3/D.Postfix%20Entry.cpp)
 
-##### [Макстек](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_3/E.Maxstack.cpp)
+##### [E. Макстек](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_3/E.Maxstack.cpp)
 
-##### [Бинарный поиск](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_3/F.Binary%20Search.cpp)
+##### [F. Бинарный поиск](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_3/F.Binary%20Search.cpp)
 
-##### [Гирлянда](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_3/G.Garland.cpp)
+##### [G. Гирлянда](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_3/G.Garland.cpp)
 
-##### [Дробление массива](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_3/H.Splitting%20the%20array.cpp)
+##### [H. Дробление массива](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_3/H.Splitting%20the%20array.cpp)
