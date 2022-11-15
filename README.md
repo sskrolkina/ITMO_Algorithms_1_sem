@@ -55,3 +55,10 @@
 ##### [G. Гирлянда](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_3/G.Garland.cpp)
 
 ##### [H. Дробление массива](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_3/H.Splitting%20the%20array.cpp)
+
+## *Лабороторная работа 4*
+
+##### [A. Пирамида ли?](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_4/A.IsHeap.cpp)
+##### [B. Пирамидальная сортировка](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_4/B.HeapSort.cpp)
+##### [C. Приоритетная очередь](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_4/C.PriorityQueue.cpp)
+##### [D. Цифровая сортировка](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_4/D.RadixSort.cpp)
