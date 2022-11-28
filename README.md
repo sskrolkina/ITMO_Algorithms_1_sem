@@ -59,6 +59,24 @@
 ## *Лабороторная работа 4*
 
 ##### [A. Пирамида ли?](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_4/A.IsHeap.cpp)
+
 ##### [B. Пирамидальная сортировка](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_4/B.HeapSort.cpp)
+
 ##### [C. Приоритетная очередь](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_4/C.PriorityQueue.cpp)
+
 ##### [D. Цифровая сортировка](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_4/D.RadixSort.cpp)
+
+## *Лабороторная работа 3*
+
+#####[A. Высота дерева](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_5/A.TreeHight.cpp)
+
+#####[B. Проверка корректности](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_5/B.CheckingCorrectness.cpp)
+
+#####[C. Заполнение дерева](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_5/C.FillingTree.cpp)
+
+#####[D. Простое двоичное дерево поиска](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_5/D.SimpleBST.cpp)
+
+#####[E. Три друга](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_5/E.ThreeFriends.cpp)
+
+#####[F. Два обхода](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_5/F.TwoTraversals.cpp)
+
