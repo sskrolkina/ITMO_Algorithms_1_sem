@@ -68,15 +68,15 @@
 
 ## *Лабороторная работа 3*
 
-#####[A. Высота дерева](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_5/A.TreeHight.cpp)
+##### [A. Высота дерева](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_5/A.TreeHight.cpp)
 
-#####[B. Проверка корректности](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_5/B.CheckingCorrectness.cpp)
+##### [B. Проверка корректности](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_5/B.CheckingCorrectness.cpp)
 
-#####[C. Заполнение дерева](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_5/C.FillingTree.cpp)
+##### [C. Заполнение дерева](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_5/C.FillingTree.cpp)
 
-#####[D. Простое двоичное дерево поиска](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_5/D.SimpleBST.cpp)
+##### [D. Простое двоичное дерево поиска](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_5/D.SimpleBST.cpp)
 
-#####[E. Три друга](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_5/E.ThreeFriends.cpp)
+##### [E. Три друга](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_5/E.ThreeFriends.cpp)
 
-#####[F. Два обхода](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_5/F.TwoTraversals.cpp)
+##### [F. Два обхода](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_5/F.TwoTraversals.cpp)
 
