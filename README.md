@@ -66,7 +66,7 @@
 
 ##### [D. Цифровая сортировка](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_4/D.RadixSort.cpp)
 
-## *Лабороторная работа 3*
+## *Лабороторная работа 5*
 
 ##### [A. Высота дерева](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_5/A.TreeHight.cpp)
 
