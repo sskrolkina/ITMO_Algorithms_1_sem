@@ -1,6 +1,6 @@
 # ITMO_Algorithms_1_sem
 
-## *Лабороторная работа 1*
+## *Лабораторная работа 1*
 
 ##### [A. Последняя цифра](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_1/A.The%20Last%20Digit.cpp)
 
@@ -14,7 +14,7 @@
 
 ##### [F. Структура холодильника](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_1/F.Refrigerator%20Structure.cpp)
 
-## *Лабороторная работа 2*
+## *Лабораторная работа 2*
 
 ##### [A. Вставка числа](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/A.Inserting%20A%20Number.cpp)
 
@@ -38,7 +38,7 @@
 
 ##### [K. K-ая порядковая статистика](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_2/K.K-th%20Ordinal%20Statistics.cpp)
 
-## *Лабороторная работа 3*
+## *Лабораторная работа 3*
 
 ##### [A. Очередь](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_3/A.Queue.cpp)
 
@@ -56,7 +56,7 @@
 
 ##### [H. Дробление массива](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_3/H.Splitting%20the%20array.cpp)
 
-## *Лабороторная работа 4*
+## *Лабораторная работа 4*
 
 ##### [A. Пирамида ли?](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_4/A.IsHeap.cpp)
 
@@ -66,7 +66,7 @@
 
 ##### [D. Цифровая сортировка](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_4/D.RadixSort.cpp)
 
-## *Лабороторная работа 5*
+## *Лабораторная работа 5*
 
 ##### [A. Высота дерева](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_5/A.TreeHight.cpp)
 
@@ -80,3 +80,18 @@
 
 ##### [F. Два обхода](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_5/F.TwoTraversals.cpp)
 
+## *Лабораторная работа 6*
+
+##### [A. Проверка сбалансированности](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_6/A.BalanceCheck.cpp)
+
+##### [B. Делаю я левый поворот](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_6/B.LeftTurn.cpp)
+
+##### [C. Вставка в АВЛ-дерево](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_6/C.AVLInsert.cpp)
+
+##### [D. Три друга 2: возвращение](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_6/D.ThreeFriendsComeback.cpp)
+
+##### [E. Упорядоченное множество на АВЛ-дереве](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_6/E.OrederSetAVL.cpp)
+
+##### [F. Очистка телефона](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_6/F.CleaningPhone.cpp)
+
+##### [G. Петя кормит котов](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_6/G.Kittens.cpp)
