@@ -95,3 +95,9 @@
 ##### [F. Очистка телефона](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_6/F.CleaningPhone.cpp)
 
 ##### [G. Петя кормит котов](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_6/G.Kittens.cpp)
+
+## *Лабораторная работа 7*
+
+##### [A. Наибольшая возрастающая подпоследовательность](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_7/A.cpp)
+
+##### [B. Рюказк](https://github.com/sskrolkina/ITMO_Algorithms_1_sem/blob/main/LAB_7/B.cpp)
